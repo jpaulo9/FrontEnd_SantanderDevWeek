@@ -6,7 +6,7 @@
     "start": "ng serve --o",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
-    "deploy": "ng deploy --base-href=https://jpaulo9.github.io/FrontEnd_SantanderDevWeek",
+    "deploy": "ng deploy --base-href=https://jpaulo9.github.io/FrontEnd_SantanderDevWeek/",
     "test": "ng test"
   },
   "private": true,
